@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: auto; /* Allow scrolling on the entire page */
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content {
+  flex: 1;
+  overflow: visible; /* Remove restriction on scrolling within the page content */
+  padding-top: 0; /* Remove padding for the fixed menu bar */
+}
