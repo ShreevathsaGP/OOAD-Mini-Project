@@ -107,9 +107,12 @@ The detailed project report, including the design, architecture, and implementat
 
 ---
 
-## Authors
+## Team Members
 
 - **PES1UG22CS568**
+- **PES1UG22CS571**
+- **PES1UG22CS582**
+- **PES1UG23CS837**
 
 ---
 
